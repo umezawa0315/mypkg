@@ -1,1 +1,1 @@
-# mypkg
+mypkg作成
