@@ -1,10 +1,3 @@
-/*
-/ BSD-3-Clause Lisence
-/
-/ Copyright © 2021, Shunsuke Umezawa. All right reserved.
-/
-*/
-
 #!/usr/bin/env python3
 import rospy
 from std_msgs.msg import Int32

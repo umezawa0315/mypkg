@@ -1,10 +1,3 @@
-/*
-/ BSD-3-Clause Lisence
-/
-/ Copyright © 2022, Shunsuke Umezawa. All right reserved.
-*/
-
-
 #!/usr/bin/env python3
 
 import rospy
