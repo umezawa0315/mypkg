@@ -2,7 +2,7 @@
 
 # BSD-3-Clause Lisence
 
-# Copyright © 2022, Shunsuke Umezawa. All rights reserved. 
+# Copyright © 2022, Ryuuichi Ueda & Shunsuke Umezawa. All rights reserved. 
 
 
 
